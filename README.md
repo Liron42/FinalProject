@@ -1,2 +1,2 @@
 # finalProject
-Modules for my final project
+My final project summary
