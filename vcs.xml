@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/Liron42/finalProject.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Liron42/Home_ex.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Final_project" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Home_ex" />
   </component>
 </application>
